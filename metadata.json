@@ -1,0 +1,6 @@
+{
+  "name": "Sales Capability Tracker",
+  "description": "A comprehensive app to track sales capability and coaching sessions per person, structured around modern Plan, Do, and Review competencies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
